@@ -19,6 +19,8 @@ int stack1(string s){
     word=s[i];
     st.push(word);
     word="";
+
+    st.
       }
       while(!st.empty()){
         for(int j=0;j<st.size();j++){

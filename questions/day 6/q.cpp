@@ -3,7 +3,7 @@
 using namespace std;
 string substring(vector<string> s){
     for(int i=0;i<s.size();i++){
-        cout<<s.at(i+1)<<" ";
+        cout<<s.at(i)<<" ";
 
 }
 }

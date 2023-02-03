@@ -1,9 +1,12 @@
 #include <iostream>
 #include <stack>
+#include<linklist.exe>
 using namespace std;
 
     void isValid(string s) {
         stack<char> st;
+
+        
         char a;
          if(s[0]=='}'||s[0]==')'||s[0]==']'){
                 cout<< "false";
@@ -31,5 +34,6 @@ int main(){
     string a="(){}}{";
     
    isValid(a);
+   linklist<int>
 
 }

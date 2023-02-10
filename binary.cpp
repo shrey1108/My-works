@@ -6,6 +6,7 @@ using namespace std;
         int r=nums.size();
         int a =(l+r)/2;
         int mid=(l+r)/2;
+        // sort(nums.begin(),nums.end())
         while(mid>=0){
              if(nums[mid]==target) return mid;
              if(mid==0){

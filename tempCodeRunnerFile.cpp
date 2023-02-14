@@ -1,4 +1,5 @@
-if(b>=10){
-        //     carry=b%10;
-        //     b=b/10;
-        // }
+
+    while(head!=NULL){
+        cout<<head->data<<"->";
+        head=head->next;
+    }

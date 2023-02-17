@@ -85,8 +85,8 @@ int main(){
 // display(l3);
 // cout<<endl;
 
-// node *l4=linkcreate(123);
-// display(l4);
+ node *l4=linkcreate(123);
+ display(l4);
 node *num1=linkcreate(243);
 node *num2=linkcreate(564);
 node *ans=sumofreversenode(num1,num2);

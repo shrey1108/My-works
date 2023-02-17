@@ -12,7 +12,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:/Program Files (x86)/MinGW/bin/cpp.exe",
+            "compilerPath": "C:/MinGW/bin/cpp.exe",
             "cStandard": "c11",
             "cppStandard": "c++03",
             "intelliSenseMode": "gcc-arm"
